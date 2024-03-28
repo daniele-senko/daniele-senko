@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.github.com/daniele-senko">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-senko&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
