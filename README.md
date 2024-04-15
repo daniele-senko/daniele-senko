@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://www.github.com/daniele-senko">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-senko&layout=compact&langs_count=6&theme=midnight-purple&include_all_repositories=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&show_icons=true&theme=midnight-purple&include_all_commits=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-senko&layout=compact&langs_count=9&theme=midnight-purple&include_all_repositories=true"/>
 </div>
 
 <div style="display: inline_block"><br>
