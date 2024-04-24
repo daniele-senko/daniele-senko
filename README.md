@@ -2,11 +2,9 @@
 
 ### Developer Web | TypeScript | React | JavaScript | TailwindCSS | Git | GitHub
 <i>Sistemas de Informação - UNEMAT | MT - Brasil</i>
-
-----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=transparent&bg_color=000&border_color=be7abb&show_icons=true&icon_color=e0bcdd&title_color=be7abb&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniele-senko&bg_color=000&border_color=be7abb&title_color=be7abb&text_color=e0bcdd)
-
+___
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=transparent&bg_color=000&border_color=be7abb&show_icons=true&icon_color=e0bcdd&title_color=be7abb&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniele-senko&bg_color=000&border_color=be7abb&title_color=be7abb&text_color=e0bcdd)
+____
 ### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas 
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=e0bcdd)
 ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=e0bcdd)
@@ -16,12 +14,8 @@
 ![figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=e0bcdd)
 ![Windows](https://img.shields.io/badge/windows-%23000000.svg?style=for-the-badge&logo=windows&logoColor=e0bcdd)
 ![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=e0bcdd)
-
-
-
-
----
-##### Redes Sociais
+___
+### Redes Sociais
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=e0bcdd)](https://github.com/daniele-senko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=e0bcdd)](https://www.linkedin.com/in/daniele-senko/)
 [![E-mail](https://img.shields.io/badge/-Email-100000?style=for-the-badge&logo=microsoft-outlook&logoColor=e0bcdd)](mailto:danielesenko@hotmail.com)
