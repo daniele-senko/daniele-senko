@@ -1,6 +1,4 @@
-<h1 style="color: #be7abb !important; text-decoration: none; color: inherit;">
-Daniele Senko
-</h1>
+### Daniele Senko
 
 ##### Developer Web | TypeScript | React | JavaScript | TailwindCSS | Git | GitHub
 <i>Sistemas de Informação - UNEMAT | MT - Brasil</i>
