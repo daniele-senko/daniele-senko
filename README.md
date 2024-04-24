@@ -1,11 +1,12 @@
 # Daniele Senko
 
 ### Developer Web | TypeScript | React | JavaScript | TailwindCSS | Git | GitHub
-<i>Sistemas de Informação - UNEMAT | MT - Brasil</i>
+###### Sistemas de Informação - UNEMAT | MT - Brasil
 ___
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=transparent&bg_color=000&border_color=be7abb&show_icons=true&icon_color=e0bcdd&title_color=be7abb&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniele-senko&bg_color=000&border_color=be7abb&title_color=be7abb&text_color=e0bcdd)
 ____
-### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas 
+### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=e0bcdd)
 ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=e0bcdd)
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=e0bcdd)
