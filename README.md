@@ -1,7 +1,5 @@
-<h1> 
-  <a href="https://www.linkedin.com/in/danielesenko/" style="color: #be7abb !important; text-decoration: none; color: inherit;">
-    <span>Daniele Senko</span>
-  </a>
+<h1 style="color: #be7abb !important; text-decoration: none; color: inherit;">
+Daniele Senko
 </h1>
 
 ##### Developer Web | TypeScript | React | JavaScript | TailwindCSS | Git | GitHub
