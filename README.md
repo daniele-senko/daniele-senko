@@ -1,6 +1,6 @@
 # Daniele Senko
 
-### Developer Fullstack | TypeScript | React | JavaScript | TailwindCSS | Git | GitHub
+### Developer Fullstack | TypeScript | React | JavaScript | TailwindCSS | Java | Git | GitHub
 ###### Sistemas de Informação - UNEMAT | MT - Brasil
 
 ___
