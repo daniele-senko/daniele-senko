@@ -34,18 +34,26 @@ ___
 ____
 ### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas
 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=e0bcdd)
+#### Front-End
+![HTML](https://img.shields.io/badge/html-%23000000.svg?style=for-the-badge&logo=html5&logoColor=e0bcdd)
+![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css3&logoColor=e0bcdd)
 ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=e0bcdd)
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=e0bcdd)
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=e0bcdd)
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20CSS-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=e0bcdd)
-![git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=e0bcdd)
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=e0bcdd)
+![Material UI](https://img.shields.io/badge/material%20UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=e0bcdd)
+
+#### Back-End
+![Node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=e0bcdd)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=e0bcdd)
+![MongoDB](https://img.shields.io/badge/mongodb-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=e0bcdd)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=e0bcdd)
-![Node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=node&logoColor=e0bcdd)
-![figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=e0bcdd)
-![Windows](https://img.shields.io/badge/windows-%23000000.svg?style=for-the-badge&logo=windows&logoColor=e0bcdd)
-![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=e0bcdd)
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=e0bcdd)
+
+#### Tecnologias e Ferramentas
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=e0bcdd)
+![Photoshop](https://img.shields.io/badge/photoshop-%23000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=e0bcdd)
+![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=microsoftexcel&logoColor=e0bcdd)
 
 ___
 ### Redes Sociais
