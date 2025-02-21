@@ -34,7 +34,7 @@ ___
 ____
 ### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas
 
-#### Front-End
+## Front-End
 ![HTML](https://img.shields.io/badge/html-%23000000.svg?style=for-the-badge&logo=html5&logoColor=e0bcdd)
 ![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css3&logoColor=e0bcdd)
 ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=e0bcdd)
@@ -43,17 +43,19 @@ ____
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20CSS-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=e0bcdd)
 ![Material UI](https://img.shields.io/badge/material%20UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=e0bcdd)
 
-#### Back-End
+## Back-End
 ![Node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=e0bcdd)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=e0bcdd)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=e0bcdd)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=e0bcdd)
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=e0bcdd)
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=e0bcdd)
+![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=e0bcdd)
 
-#### Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=e0bcdd)
 ![Photoshop](https://img.shields.io/badge/photoshop-%23000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=e0bcdd)
-![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=microsoftexcel&logoColor=e0bcdd)
+![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=microsoftexcel&logoColor=e0bcdd) 
+![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=e0bcdd)
 
 ___
 ### Redes Sociais
