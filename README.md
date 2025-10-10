@@ -5,30 +5,27 @@
 
 ___
 
-Sou graduanda em Sistemas de Informação pela Universidade do Estado de Mato Grosso (UNEMAT) e desenvolvedora web em constante aprimoramento, com mais de um ano de experiência na criação de soluções web eficientes e orientadas à experiência do usuário, seguindo os mais altos padrões de mercado.
+Desenvolvedora Frontend com 2 anos de experiência prática em desenvolvimento web e visão Full-Stack. Sou Graduanda em Sistemas de Informação (UNEMAT) e meu foco é entregar aplicações robustas e de alta performance que melhoram a experiência do usuário.
 
-Meu foco é entregar aplicações robustas e funcionais, sempre com atenção aos detalhes e ao desempenho, o que me permite atender às demandas técnicas e criar experiências de usuário intuitivas. Para isso, mantenho-me atualizada nas melhores práticas e evoluo continuamente minhas habilidades para superar desafios de maneira inovadora.
+Possuo proficiência em React.js, TypeScript e JavaScript, utilizando ferramentas de estilização modernas como TailwindCSS e Material UI. Em minha atuação como Desenvolvedora Web Freelancer , criei interfaces dinâmicas e responsivas, focando em UI/UX Design (Figma) para projetar interfaces intuitivas que melhoraram o engajamento.
 
-Além do desenvolvimento, exploro as interseções entre neurociência e tecnologia, visando criar soluções que integrem essas duas áreas no futuro.
+Além disso, em minha experiência na TopSapp (Sistema de Gestão de Provedores), contribuí para o desenvolvimento de uma plataforma com alcance nacional, sendo responsável pela implementação de novas telas em três projetos simultâneos. Trabalhei com React.js, TypeScript e TailwindCSS, atuando em uma equipe ágil e utilizando Git/GitHub para o ciclo de desenvolvimento contínuo.
 
-Front-End: HTML, CSS, TypeScript, React.js, JavaScript, TailwindCSS, Material UI.
+Minhas habilidades se estendem ao Back-End (Node.js, Express, MongoDB, MySQL), me permitindo entender o ciclo completo de desenvolvimento. Sou proativa, focada em resultados e reconhecida pela capacidade de aprender novas tecnologias rapidamente (incluindo o prêmio de Melhor Estagiária em 2023).
 
-Back-End: Node.js, Express, MongoDB, MySQL, Java.
+Detalhes dos meus projetos (TaskFlow, CRUDs) e código limpo estão disponíveis no meu Portfólio e GitHub (links na seção Em Destaque).
 
-Tecnologias e Ferramentas: UI/UX Design, Figma, Photoshop, Excel.
 ___
 
-I'm an Information Systems student at the State University of Mato Grosso (UNEMAT) and a dedicated web developer, with over a year of experience in creating efficient, user-focused web applications that adhere to the highest industry standards.
+Frontend Developer with 2 years of practical experience in web development and a Full-Stack perspective. I am an Information Systems undergraduate (UNEMAT), and my focus is on delivering robust, high-performance applications that enhance user experience.
 
-My goal is to deliver robust, high-performing applications with attention to detail, enabling me to meet technical demands and design intuitive user experiences. I stay updated on best practices and continuously advance my skills to overcome challenges in innovative ways.
+I have proficiency in React.js, TypeScript, and JavaScript, utilizing modern styling tools like TailwindCSS and Material UI. In my work as a Freelance Web Developer, I created dynamic and responsive interfaces, focusing on UI/UX Design (Figma) to project intuitive interfaces that improved engagement.
 
-In addition to development, I explore the intersections between neuroscience and technology, aiming to create solutions that integrate these fields in the future.
+Furthermore, in my experience at TopSapp (a Provider Management System), I contributed to the development of a platform with national reach, being responsible for implementing new screens across three simultaneous projects. I worked with React.js, TypeScript, and TailwindCSS, operating within an agile team and utilizing Git/GitHub for the continuous development cycle.
 
-Front-End: HTML, CSS, TypeScript, React.js, JavaScript, TailwindCSS, Material UI.
+My skills extend to the Back-End (Node.js, Express, MongoDB, MySQL), allowing me to understand the complete development lifecycle. I am proactive, results-driven, and recognized for the ability to quickly learn new technologies (including the Best Intern award in 2023).
 
-Back-End: Node.js, Express, MongoDB, MySQL, Java.
-
-Technologies and Tools: UI/UX Design, Figma, Photoshop, Excel.
+Details of my projects (TaskFlow, CRUDs) and clean code are available on my Portfolio and GitHub (links in the Featured section).
 ___
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=transparent&bg_color=000&border_color=be7abb&show_icons=true&icon_color=e0bcdd&title_color=be7abb&text_color=FFF)![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniele-senko&bg_color=000&border_color=be7abb&title_color=be7abb&text_color=e0bcdd)
 ____
