@@ -27,8 +27,16 @@ My skills extend to the Back-End (Node.js, Express, MongoDB, MySQL), allowing me
 
 Details of my projects (TaskFlow, CRUDs) and clean code are available on my Portfolio and GitHub (links in the Featured section).
 ___
-![Daniele GitHub stats](https://github-readme-stats.vercel.app/api?username=daniele-senko&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-senko&layout=compact&theme=radical)
+
+<a href="https://github.com/daniele-senko/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=radical" />
+</a>
+<a href="https://github.com/daniele-senko/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniele-senko&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+
 ____
+
 ### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas
 
 ## Front-End
