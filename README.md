@@ -40,33 +40,43 @@ ____
 ### 🚀 Linguagens - Tecnologias - Frameworks - Ferramentas
 
 ## Front-End
-![HTML](https://img.shields.io/badge/html-%23000000.svg?style=for-the-badge&logo=html5&logoColor=e0bcdd)
-![CSS](https://img.shields.io/badge/css-%23000000.svg?style=for-the-badge&logo=css3&logoColor=e0bcdd)
-![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=e0bcdd)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=e0bcdd)
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=e0bcdd)
-![TailwindCSS](https://img.shields.io/badge/tailwind%20CSS-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=e0bcdd)
-![Material UI](https://img.shields.io/badge/material%20UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=e0bcdd)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## Back-End
-![Node.js](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=e0bcdd)
-![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=e0bcdd)
-![MongoDB](https://img.shields.io/badge/mongodb-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=e0bcdd)
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=e0bcdd)
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=e0bcdd)
-![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=e0bcdd)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## Tecnologias e Ferramentas
-![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=e0bcdd)
-![Photoshop](https://img.shields.io/badge/photoshop-%23000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=e0bcdd)
-![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=microsoftexcel&logoColor=e0bcdd) 
-![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=e0bcdd)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ___
 ### Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=e0bcdd)](https://www.linkedin.com/in/daniele-senko/)
 [![E-mail](https://img.shields.io/badge/-Email-100000?style=for-the-badge&logo=microsoft-outlook&logoColor=e0bcdd)](mailto:danielesenko@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=github&logoColor=e0bcdd)](https://www.instagram.com/danielesenko/)
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2daniele-senko"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2daniele-senko&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
