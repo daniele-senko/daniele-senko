@@ -44,6 +44,8 @@ Sou desenvolvedora Frontend com 2 anos de experiência em desenvolvimento web, v
   </a>
 </p>
 
+Histórico de atualizações nos repositórios<br>
+[![historico](https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko&theme=github-compact)](https://github.com/daniele-senko)
 
 ---
 
