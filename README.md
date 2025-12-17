@@ -4,8 +4,6 @@
 
 Sou desenvolvedora Frontend com 2 anos de experiência em desenvolvimento web, visão Full-Stack e foco em entregar **aplicações robustas e de alta performance**.  
 
-🏆 Melhor Estagiária 2023 | Proativa, focada em resultados e rápida aprendizagem.
-
 ---
 
 ## 💻 Tech Stack
