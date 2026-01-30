@@ -1,8 +1,8 @@
 # 👋 Daniele Senko
 
-### Frontend Developer | Sistemas de Informação - UNEMAT | MT, Brasil  
+### Frontend Software Engineer | Sistemas de Informação - UNEMAT | MT, Brasil  
 
-Sou desenvolvedora Frontend com 2 anos de experiência em desenvolvimento web, visão Full-Stack e foco em entregar **aplicações robustas e de alta performance**.  
+Desenvolvedora web com foco em Frontend e experiência prática em React, TypeScript e criação de interfaces modernas.
 
 ---
 
