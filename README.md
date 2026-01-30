@@ -27,8 +27,9 @@ Sou desenvolvedora Frontend com 2 anos de experiência em desenvolvimento web, v
 
 | Projeto | Tech Stack | Descrição | Link |
 |---------|------------|-----------|------|
+| JusCleaner | React.js (Vite), TypeScript, Tailwind CSS, Node.js, Express, iLovePDF API | Aplicação Full-Stack para compressão e sanitização de PDFs jurídicos, resolvendo limitações de tamanho e nomenclatura do PJe/e-SAJ. | [GitHub](https://github.com/daniele-senko/juscleaner) |
 | TaskFlow | Vue.js 3 (Composition API), Pinia, Tailwind CSS, Heroicons, Chart.js/vue-chart-3, LocalStorage API | Sistema de gerenciamento de tarefas com dashboards interativos e gráficos dinâmicos, usando gerenciamento de estado e persistência local. | [GitHub](https://github.com/daniele-senko/taskflow-tododash) |
-| Cadastro de Usuários | React.js, JavaScript, CSS, Axios, Vite, Node.js  | Sistema CRUD completo para gerenciar usuários com interface dinâmica e responsiva. | [GitHub](https://github.com/daniele-senko/cadastro-usuarios) |
+| Cadastro de Usuários | React.js, JavaScript, CSS, Axios, Vite, Node.js | Sistema CRUD completo para gerenciar usuários com interface dinâmica e responsiva. | [GitHub](https://github.com/daniele-senko/cadastro-usuarios) |
 
 ---
 
