@@ -25,11 +25,12 @@ Desenvolvedora web com foco em Frontend e experiência prática em React, TypeSc
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Tech Stack | Descrição | Link |
-|---------|------------|-----------|------|
-| JusCleaner | React.js (Vite), TypeScript, Tailwind CSS, Node.js, Express, iLovePDF API | Aplicação Full-Stack para compressão e sanitização de PDFs jurídicos, resolvendo limitações de tamanho e nomenclatura do PJe/e-SAJ. | [GitHub](https://github.com/daniele-senko/juscleaner) |
-| TaskFlow | Vue.js 3 (Composition API), Pinia, Tailwind CSS, Heroicons, Chart.js/vue-chart-3, LocalStorage API | Sistema de gerenciamento de tarefas com dashboards interativos e gráficos dinâmicos, usando gerenciamento de estado e persistência local. | [GitHub](https://github.com/daniele-senko/taskflow-tododash) |
-| Cadastro de Usuários | React.js, JavaScript, CSS, Axios, Vite, Node.js | Sistema CRUD completo para gerenciar usuários com interface dinâmica e responsiva. | [GitHub](https://github.com/daniele-senko/cadastro-usuarios) |
+| Projeto | Tech Stack | Descrição | Código | Demo |
+|--------|------------|-----------|--------|------|
+| JusCleaner | React, TS, Tailwind, Node, Express | Compressão e sanitização de PDFs jurídicos para PJe/e-SAJ | [GitHub](https://github.com/daniele-senko/juscleaner) | [Acessar](https://juscleaner.vercel.app) |
+| TaskFlow | Vue 3, Pinia, Tailwind | Gerenciador de tarefas com dashboard e gráficos | [GitHub](https://github.com/daniele-senko/taskflow-tododash) | [Acessar](https://taskflow-tododash.vercel.app) |
+| Cadastro de Usuários | React, Axios, Node | CRUD completo de usuários | [GitHub](https://github.com/daniele-senko/cadastro-usuarios) | [Acessar](https://cadastro-usuarios-new.vercel.app) |
+
 
 ---
 
