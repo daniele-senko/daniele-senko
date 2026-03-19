@@ -4,9 +4,7 @@
 
 Sistemas de Informação - UNEMAT | MT, Brasil
 
-Engenheira de Software com 2 anos de experiência prática em desenvolvimento web e visão Full-Stack. Atuo na transformação de requisitos complexos em interfaces de alta fidelidade e soluções automatizadas que geram eficiência operacional.
-
-Experiência comprovada em entrega end-to-end, otimização de processos e construção de aplicações escaláveis no ecossistema JavaScript.
+Engenheira de Software com vivência prática na construção de interfaces escaláveis utilizando React.js e TypeScript. Experiência na evolução de produtos SaaS com milhares de usuários ativos, atuando na arquitetura de bibliotecas de componentes para acelerar entregas e garantir consistência visual.
 
 ---
 
