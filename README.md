@@ -1,10 +1,10 @@
 # 👋 Daniele Senko
 
-### Software Engineer | Frontend | React · Next.js · TypeScript · Node.js · Python
+### Frontend Developer | React · Next.js · TypeScript · Node.js · Python
 
 Sistemas de Informação - UNEMAT | MT, Brasil
 
-Engenheira de Software com vivência prática na construção de interfaces escaláveis utilizando React.js e TypeScript. Experiência na evolução de produtos SaaS com milhares de usuários ativos, atuando na arquitetura de bibliotecas de componentes para acelerar entregas e garantir consistência visual.
+Frontend Developer com vivência prática na construção de interfaces escaláveis utilizando React.js e TypeScript. Experiência na evolução de produtos SaaS com milhares de usuários ativos, atuando na arquitetura de bibliotecas de componentes para acelerar entregas e garantir consistência visual.
 
 ---
 
