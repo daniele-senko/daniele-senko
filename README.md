@@ -60,8 +60,6 @@ Frontend Developer com vivência prática na construção de interfaces escaláv
 | -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
 | Avoxe Institucional  | Next.js 15, TypeScript, Tailwind v4, Framer Motion, Formspree | Site institucional desenvolvido com App Router, tipagem estática, animações Reveal e integração serverless de formulários | Privado                                                      | [Acessar](https://avoxe.com.br)                     |
 | JusCleaner           | React, TS, Tailwind, Node, Express                            | Aplicação Full-Stack para compressão e sanitização de PDFs jurídicos (PJe/e-SAJ)                                          | [GitHub](https://github.com/daniele-senko/juscleaner)        | [Acessar](https://juscleaner.vercel.app)            |
-| TaskFlow             | Vue 3, Pinia, Tailwind                                        | Dashboard de gerenciamento de tarefas com gráficos e arquitetura reativa                                                  | [GitHub](https://github.com/daniele-senko/taskflow-tododash) | [Acessar](https://taskflow-tododash.vercel.app)     |
-| Cadastro de Usuários | React, Axios, Node                                            | CRUD completo com integração frontend-backend                                                                             | [GitHub](https://github.com/daniele-senko/cadastro-usuarios) | [Acessar](https://cadastro-usuarios-new.vercel.app) |
 
 ---
 
