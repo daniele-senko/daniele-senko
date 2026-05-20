@@ -1,5 +1,3 @@
-# 👋 Daniele Senko
-
 ### Frontend Developer | React · Next.js · TypeScript · Node.js · Python
 
 Sistemas de Informação - UNEMAT | MT, Brasil
@@ -65,14 +63,10 @@ Frontend Developer com vivência prática na construção de interfaces escaláv
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/daniele-senko">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=daniele-senko&theme=radical" />
-  </a>
-  <a href="https://github.com/daniele-senko">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniele-senko&layout=compact&langs_count=8&card_width=320&theme=radical" /> 
-  </a>
-</p>
+<div align="center">
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Stats Card" />
+  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Top Languages Card" />
+</div>
 
 Histórico <br>
 [![historico](https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko\&theme=github-compact)](https://github.com/daniele-senko)
