@@ -68,8 +68,7 @@ Frontend Developer com vivência prática na construção de interfaces escaláv
   <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Top Languages Card" />
 </div>
 
-Histórico <br>
-[![historico](https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko\&theme=github-compact)](https://github.com/daniele-senko)
+[![historico](https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko\&theme=github-compacttheme=dark&hide_border=true)](https://github.com/daniele-senko)
 
 ---
 
