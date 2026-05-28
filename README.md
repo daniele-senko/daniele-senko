@@ -64,9 +64,15 @@ Frontend Developer com vivência prática na construção de interfaces escaláv
 ## 📊 Estatisticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=daniele-senko&theme=dark&hide_border=true"/>
-  <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Stats Card" />
-  <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Top Languages Card" />
+  <div>
+    <img src="https://streak-stats.demolab.com/?user=daniele-senko&theme=dark&hide_border=true" alt="stats card"/>
+  </div>
+  <div>
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Stats Card" />
+  </div>
+  <div>
+    <img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=daniele-senko&theme=dark&hide_border=true" alt="GitHub Top Languages Card" />
+  </div>
 </div>
 
 [![historico](https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko\&theme=github-compacttheme=dark&hide_border=true)](https://github.com/daniele-senko)
