@@ -3,6 +3,12 @@
   <p><strong>React · Next.js · TypeScript · Node.js · Python</strong></p>
 </div>
 
+--- 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/daniele-senko/daniele-senko/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
+</div>
+
 ---
 
 ## 💻 Tech Stack
