@@ -3,13 +3,9 @@
   <p><strong>React · Next.js · TypeScript · Node.js · Python</strong></p>
 </div>
 
---- 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/daniele-senko/daniele-senko/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -64,8 +60,6 @@
 </div>
 </details>
 
----
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
@@ -76,8 +70,6 @@
 | **JusCleaner** | React, TS, Tailwind, Node, Express | Full‑Stack para compressão e sanitização de PDFs jurídicos (PJe/e‑SAJ) | [GitHub](https://github.com/daniele-senko/juscleaner) | [Acessar](https://juscleaner.vercel.app) |
 
 </div>
-
----
 
 ## 📊 Estatísticas
 
@@ -96,14 +88,6 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <a href="https://github.com/daniele-senko">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniele-senko&theme=github-compact&hide_border=true" alt="activity graph" />
-  </a>
-</div>
-
----
 
 ## 📫 Contato
 
