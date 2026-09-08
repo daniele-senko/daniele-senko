@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Software Engineer | Frontend ✨</h1>
+  <h1>Software Engineer</h1>
   <p><strong>React · Next.js · TypeScript · Node.js · Python</strong></p>
 </div>
 
