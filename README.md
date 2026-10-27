@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Software Engineer</h1>
-  <p><strong>React · Next.js · TypeScript · Node.js · Python</strong></p>
+  <h1>Frontend Developer</h1>
+  <p><strong>React, TypeScript, Next.js & Node.js</strong></p>
 </div>
 
 <div align="center">
